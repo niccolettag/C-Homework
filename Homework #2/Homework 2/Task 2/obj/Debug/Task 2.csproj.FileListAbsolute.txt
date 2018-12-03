@@ -1,0 +1,6 @@
+C:\C# project\Homework 2\Homework 2\Task 2\bin\Debug\Task 2.exe.config
+C:\C# project\Homework 2\Homework 2\Task 2\bin\Debug\Task 2.exe
+C:\C# project\Homework 2\Homework 2\Task 2\bin\Debug\Task 2.pdb
+C:\C# project\Homework 2\Homework 2\Task 2\obj\Debug\Task 2.exe
+C:\C# project\Homework 2\Homework 2\Task 2\obj\Debug\Task 2.pdb
+C:\C# project\Homework 2\Homework 2\Task 2\obj\Debug\Task 2.csprojResolveAssemblyReference.cache
