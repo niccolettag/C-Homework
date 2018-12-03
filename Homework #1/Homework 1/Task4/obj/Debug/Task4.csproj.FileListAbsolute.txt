@@ -1,0 +1,5 @@
+C:\C# project\Homework #1\Homework 1\Task4\bin\Debug\Task4.exe.config
+C:\C# project\Homework #1\Homework 1\Task4\bin\Debug\Task4.exe
+C:\C# project\Homework #1\Homework 1\Task4\bin\Debug\Task4.pdb
+C:\C# project\Homework #1\Homework 1\Task4\obj\Debug\Task4.exe
+C:\C# project\Homework #1\Homework 1\Task4\obj\Debug\Task4.pdb
